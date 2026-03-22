@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Muffin!<br>I’m currently learning C++, Java, CSS, HTML, and JavaScript.<br><br>🎓 College student starting my programming journey<br><br>💻 Excited to build projects to improve my coding skills<br><br>🎮 Goal: Become a game developer
+👋 Hi, I’m Muffin!<br>I’m currently learning C++, Java, CSS, HTML, and JavaScript.<br><br>🎓 College student starting my programming journey<br><br>
 
 
 ## 🌐 Socials:
